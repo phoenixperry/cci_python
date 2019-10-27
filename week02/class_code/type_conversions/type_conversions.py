@@ -1,5 +1,5 @@
-name = input("What's your name?")
-age = input("What's your age?")
+name = input("What's your name?") #what is your name? :D 
+age = input("What's your age?") 
 print (type(age))
 age = int(age)
 print (type(age))

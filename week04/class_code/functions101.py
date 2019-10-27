@@ -7,7 +7,7 @@ run()
 
 def runFast(x,y):
     x = x/y
-    print("run fast to", x, y)
+    print("run fast to "+ str(x) + " " +str(y))
 
 runFast(10,10)
 
@@ -19,3 +19,4 @@ x = input("what x position should I run to?")
 x = int(x)
 y = x+x
 runFast(x,y)
+
