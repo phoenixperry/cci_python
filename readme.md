@@ -1,9 +1,9 @@
 
 # Introduction to Creative Computing and Coding Practice
 
-**Instructor:** Phoenix Perry
+**Instructor(s):** Phoenix Perry, Vit Ruzicka
 
-**Email:** phoenix.perry@arts.ac.uk
+**Email:** phoenix.perry@arts.ac.uk, v.ruzicka@arts.ac.uk
 
 Office Hours: [via youcanbookme](phoenixperry.youcanbook.me)
 --
@@ -85,9 +85,9 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Six: Strings 
 
-##### Week Seven: Files  
+##### Week Seven: Lists + Files  
 
-##### Week Eight: Lists   
+##### Week Eight: Files (cont.)
 
 ##### Week Nine: Dictionaries & Tuples 
 
