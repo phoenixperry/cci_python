@@ -82,8 +82,7 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Five: Iteration 
 
-
-##### Week Six: Strings 
+##### Week Six: Strings (notes about strings and iterations have been merged into W7)
 
 ##### Week Seven: Lists + Files  
 
