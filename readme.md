@@ -60,7 +60,7 @@ There's an interactive version of it here: https://runestone.academy/runestone/b
 
 #### Web References:
 
-http://interactivepython.org/runestone/static/thinkcspy/toc.html#
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/ 
 
@@ -82,8 +82,7 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Five: Iteration 
 
-
-##### Week Six: Strings 
+##### Week Six: Strings (notes about strings and iterations have been merged into W7)
 
 ##### Week Seven: Lists + Files  
 
@@ -93,9 +92,11 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Ten: Classes and Objects     
 
-##### Week Eleven: Classes and Objects 
+##### Week Eleven: Review 1
 
-##### Week Twelve: Review   
+:christmas_tree::christmas_tree::christmas_tree: _Christmas break_
 
-##### Week Thirteen: TBD  
+##### Week Twelve: Exceptions, Recursion, Assignment discussion
+
+##### Week Thirteen: Review 2  
 
