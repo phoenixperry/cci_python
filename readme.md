@@ -94,7 +94,7 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Eleven: Review 1
 
-Christmas break
+:christmas_tree::christmas_tree::christmas_tree: _Christmas break_
 
 ##### Week Twelve: Exceptions, Recursion, Assignment discussion
 
