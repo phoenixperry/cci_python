@@ -60,7 +60,7 @@ There's an interactive version of it here: https://runestone.academy/runestone/b
 
 #### Web References:
 
-http://interactivepython.org/runestone/static/thinkcspy/toc.html#
+https://runestone.academy/runestone/books/published/thinkcspy/index.html
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/ 
 
