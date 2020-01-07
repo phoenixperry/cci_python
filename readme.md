@@ -92,9 +92,11 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Ten: Classes and Objects     
 
-##### Week Eleven: Classes and Objects 
+##### Week Eleven: Review 1
 
-##### Week Twelve: Review   
+Christmas break
+
+##### Week Twelve: Review 2, Exceptions, Recursion
 
 ##### Week Thirteen: TBD  
 
