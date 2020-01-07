@@ -96,7 +96,7 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 Christmas break
 
-##### Week Twelve: Review 2, Exceptions, Recursion
+##### Week Twelve: Exceptions, Recursion, Assignment discussion
 
-##### Week Thirteen: TBD  
+##### Week Thirteen: Review 2  
 
