@@ -92,7 +92,7 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Ten: Classes and Objects     
 
-##### Week Eleven: Review 1
+##### Week Eleven: Review 1 - check out the questions and solutions at [week11/class_code/w11_tasks_solutions.ipynb](https://github.com/phoenixperry/cci_python/blob/master/week11/class_code/w11_tasks_solutions.ipynb)
 
 :christmas_tree::christmas_tree::christmas_tree: _Christmas break_
 
