@@ -98,5 +98,5 @@ https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA
 
 ##### Week Twelve: Exceptions, Recursion, Assignment discussion
 
-##### Week Thirteen: Review 2  
+##### Week Thirteen: Review 2 - check out these tasks and solutions at [week13/w13_ExamPrep_with_solutions.ipynb](https://github.com/phoenixperry/cci_python/blob/master/week13/w13_ExamPrep_with_solutions.ipynb)
 
